@@ -1,5 +1,5 @@
--, the protagonist 
--, the King's councillor, the antagonist 
-- IV, the King 
--, the protagonist's love interest 
--, the creator of the sword 
+"-> George, the protagonist" 
+"-> Horace, the King's councillor, the antagonist" 
+"-> William IV, the King" 
+"-> Lily, the protagonist's love interest" 
+"-> Merlin, the creator of the sword" 
